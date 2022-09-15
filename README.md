@@ -66,4 +66,4 @@ Para todas las versiones disponibles, mira los [tags en este repositorio](https:
 
 
 ---
-⌨️ con ❤️ por [Vu Security](https://www.vusecurity.com/es) 😊
+⌨️ con ❤️ por [Pablo Tedesco](https://tedesco.es) 😊
